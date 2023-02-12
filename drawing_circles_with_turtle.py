@@ -1,3 +1,8 @@
+#This code asks the user to press enter to start drawing the circles.
+#Once the user presses enter it starts drawing the circles.
+#if the user types stop the program stops.
+#Once it draws the circle it will display the circumference and area.
+#This program will draw 11 circles in total.
 import turtle
 from time import sleep
 from random import randint

@@ -1,3 +1,4 @@
+#This code will ask the user to type two numbers after the user types in two numbers it will add them together.
 from lesson_classes1 import add
 
 try:
