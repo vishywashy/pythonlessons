@@ -2,7 +2,7 @@ This is my adventure towards learning python programming.I hope to learn much mo
 
 To run these programs please follow the instructions.
 
-#Area of a triangle
+# Area of a triangle
 
 ```
 python area_of_triangle.py
@@ -15,7 +15,7 @@ python area_of_triangle.py
 3.It will display the area of a triangle based on the numbers you entered.
 
 
-#Drawing Circles with Turtle
+# Drawing Circles with Turtle
 
 ```
 python drawing_circles_with_turtle.py
@@ -29,19 +29,19 @@ python drawing_circles_with_turtle.py
 
 4.The turtle will draw 11 circles in this program.
 
-#Adding two numbers
+# Adding two numbers
 ```
 lesson1_classes1.py
 ```
 
 1.The class(add) has been created.
-#Adding two numbers2
+# Adding two numbers2
 ```
 drawing_circles_with_turtle.py
 ```
 1.The class which was created has been used in this code
 
-#Calculate the perimeter and area of the square
+# Calculate the perimeter and area of the square
 ```
 square_perimeter_and_area.py
 ```
