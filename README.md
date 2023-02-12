@@ -23,7 +23,7 @@ python drawing_circles_with_turtle.py
 1.This code will ask for you to press enter.If you press enter the program will continue otherwise it will stop.To stop the program you must enter stop.
 
 
-2.The turtle will go to random co-ordinates when this program is run
+2.The turtle will go to random co-ordinates when this program is run.
 
 3.The turtle will change colour when this program is run.
 
@@ -35,21 +35,32 @@ lesson1_classes1.py
 ```
 
 1.The class(add) has been created.
-# Adding two numbers2
+# Adding two numbers
 ```
 drawing_circles_with_turtle.py
 ```
-1.The class which was created has been used in this code
+1.The class which was created has been used in this code.
 
 # Calculate the perimeter and area of the square
 ```
 square_perimeter_and_area.py
 ```
-1.This code will ask you two enter two sides
+1.This code will ask you two enter two sides.
+
 2.You must enter a number.
+
 3.This code will display the perimeter and area of the square based on the numbers you have entered
 
+# Adding, subtracting, multiplying and dividing
+```
+arithmatic_operation.py
+```
+1.This code will ask you to enter two numbers.
 
+2.You must enter a number or a decimal number.
+
+3.This code will add, subtract, multiply and divide the numbers you have entered.
+  
 
 
 
