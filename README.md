@@ -31,19 +31,19 @@ python drawing_circles_with_turtle.py
 
 # Adding two numbers
 ```
-lesson1_classes1.py
+python lesson1_classes1.py
 ```
 
 1.The class(add) has been created.
 # Adding two numbers
 ```
-drawing_circles_with_turtle.py
+python using_class_objects.py
 ```
 1.The class which was created has been used in this code.
 
 # Calculate the perimeter and area of the square
 ```
-square_perimeter_and_area.py
+python square_perimeter_and_area.py
 ```
 1.This code will ask you two enter two sides.
 
@@ -53,7 +53,7 @@ square_perimeter_and_area.py
 
 # Adding, subtracting, multiplying and dividing
 ```
-arithmatic_operation.py
+python arithmatic_operation.py
 ```
 1.This code will ask you to enter two numbers.
 
